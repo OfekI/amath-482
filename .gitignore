@@ -1,0 +1,12 @@
+**/*.jpg
+**/*.jpeg
+**/*.mp3
+**/Lecture*.m
+**/cam*.mat
+**/centers*.mat
+.vscode
+CourseNotes.pdf
+HW_start.m
+practice.m
+Testdata.mat
+weightheight.mat
